@@ -15,3 +15,4 @@ Here GPA is caluclated with respective Subject marks and Credits.
       (REAPPEAR)
 
 MARKS SHOULD BE UPLOADED OUT OFF 100 (if you have any subjects marks out of 50 please double the value as 50x2=100 and leave the credits as usual )
+misriths
